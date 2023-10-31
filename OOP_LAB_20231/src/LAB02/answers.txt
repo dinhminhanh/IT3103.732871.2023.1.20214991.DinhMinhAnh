@@ -1,0 +1,2 @@
+Nếu tạo một phương thức khởi tạo DVD theo tiêu đề rồi tạo một phương thức khởi tạo DVD theophân loại, Java có cho phép làm điều này không?
+Java không cho phép khởi tạo DVD theo phân loại vì Java không cho phép tồn tại 2 phương thức có cùng chữ kí. Và 2 phương thức trên có tiêu đề và phân loại có cùng kiểu dữ liệu String nên 2 phương thức khởi tạo trên trùng chữ kí và gây lỗi.
